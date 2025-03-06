@@ -8,3 +8,4 @@
   <li>Upon completion of the test, the scores can be viewed.
   <li>The scores are stored in database and can be viewed later.
 </ol>
+<h2>Notes :</h2> UI has to be improved.
